@@ -1,6 +1,6 @@
 # ForFun
 
-This repository contains some programms that was created just for fun. 
+This repository contains some programms that were created just for fun. 
 
 ### A full list of programms:
 
